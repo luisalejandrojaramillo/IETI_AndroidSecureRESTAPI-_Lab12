@@ -1,4 +1,4 @@
-# IETI_AndroidSecureRESTAPI-_Lab12
+# IETI_AndroidSecureRESTAPI_Lab12
 
 ## [Codigo de Honor](/CoHonor.txt)
 
